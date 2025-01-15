@@ -1,0 +1,12 @@
+{
+    "name": "The Sheet",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "action": {
+      "title": "The Sheet",
+      "icon": "/icon.svg",
+      "popover": "/",
+      "height": 800,
+      "width": 600
+    }
+  }
